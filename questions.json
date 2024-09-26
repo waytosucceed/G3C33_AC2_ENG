@@ -1,0 +1,227 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which sentence uses the present perfect tense?",
+        "options": [
+            "I am eating an apple.",
+            "I eat an apple every day.",
+            "I have eaten an apple.",
+            "I will eat an apple."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'have' + the past participle 'eaten,' which is the structure of the present perfect tense. It indicates an action that happened in the past but is connected to the present."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "What is the present perfect form of 'sing'?",
+        "options": [
+            "singed",
+            "sung",
+            "sang",
+            "have singing"
+        ],
+        "correct": 1,
+        "explanation": "The past participle of 'sing' is 'sung.' In the present perfect tense, we would say 'have sung' or 'has sung.'"
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which sentence is in the present perfect tense?",
+        "options": [
+            "They play soccer every weekend.",
+            "They are playing soccer now.",
+            "They have played soccer for years.",
+            "They will play soccer tomorrow."
+        ],
+        "correct": 2,
+        "explanation": "This sentence uses 'have' + the past participle 'played,' indicating an action that started in the past and continues to the present."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which sentence is in the simple present tense?",
+        "options": [
+            "I am eating breakfast.",
+            "I eat breakfast every morning.",
+            "I have eaten breakfast.",
+            "I will eat breakfast."
+        ],
+        "correct": 1,
+        "explanation": "This sentence uses the base form of the verb 'eat' to describe a regular habit, which is characteristic of the simple present tense."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence is not in the present perfect tense?",
+        "options": [
+            "We have lived here for five years.",
+            "She has finished her homework.",
+            "They have gone to the store.",
+            "He goes to school every day."
+        ],
+        "correct": 3,
+        "explanation": "This sentence is in the simple present tense. It doesn't use 'has/have' + past participle."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Choose the correct form of the verb in the present perfect tense: 'She ____ her homework.'",
+        "options": [
+            "do",
+            "does",
+            "did",
+            "has done"
+        ],
+        "correct": 3,
+        "explanation": "For the third-person singular (she), we use 'has' + the past participle of the verb 'do,' which is 'done.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "We ____ (visit) the museum three times this year.",
+        "options": [
+            "has visited",
+            "have visited",
+            "has visiting"
+        ],
+        "correct": 1,
+        "explanation": "'Have visited' is the present perfect form, indicating repeated action up to the present."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "The dog ____ (bury) its bone in the garden.",
+        "options": [
+            "has buried",
+            "have buried",
+            "will have buried"
+        ],
+        "correct": 0,
+        "explanation": "For 'the dog' (it), we use 'has' + the past participle 'buried.'"
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "You ____ (grow) so much since last year!",
+        "options": [
+            "has grow",
+            "have growing",
+            "have grown"
+        ],
+        "correct": 2,
+        "explanation": "This uses 'have' + the past participle 'grown' to show change over time up to now."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "It ____ (rain) all day.",
+        "options": [
+            "has rain",
+            "has rained",
+            "have rained"
+        ],
+        "correct": 1,
+        "explanation": "For 'it,' we use 'has' + the past participle 'rained' in the present perfect tense."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "The sentence 'He has finished his lunch' is in the present perfect tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0,
+        "explanation": "This sentence uses 'has' + the past participle 'finished,' which is the correct structure for the present perfect tense."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "We use 'have' with 'she' in the present perfect tense.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "We use 'has' with third-person singular pronouns (he, she, it) in the present perfect tense."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "In the present perfect tense, we always use 'have' with every subject.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "We use 'have' with I, you, we, and they, but we use 'has' with he, she, and it."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "'She have cooked dinner' is a correct present perfect sentence.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "It should be 'She has cooked dinner.' We use 'has' with 'she,' not 'have.'"
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "The present perfect tense always uses 'ed' at the end of the verb.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1,
+        "explanation": "While many verbs do end in 'ed' in their past participle form, there are many irregular verbs (like 'gone,' 'seen,' 'eaten') that don't follow this pattern."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Choose the correct sentence:",
+        "options": [
+            "I has seen that movie before.",
+            "I have seen that movie before.",
+            "I seen that movie before."
+        ],
+        "correct": 1,
+        "explanation": "This correctly uses 'have' + the past participle 'seen.'"
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "What does the present perfect tense often express?",
+        "options": [
+            "Future plans",
+            "Regular habits",
+            "Past experiences or actions with present relevance",
+            "Ongoing actions"
+        ],
+        "correct": 2,
+        "explanation": "The present perfect often connects past actions to the present time."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which sentence uses the present perfect correctly?",
+        "options": [
+            "We are lived here for ten years.",
+            "We living here for ten years.",
+            "We have lived here for ten years.",
+            "We live here for ten years."
+        ],
+        "correct": 2,
+        "explanation": "This correctly uses 'have' + the past participle 'lived' to show an ongoing situation."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "What is the present continuous form of 'read'?",
+        "options": [
+            "reads",
+            "reading",
+            "is reading",
+            "has read"
+        ],
+        "correct": 2,
+        "explanation": "The present continuous uses 'is/am/are' + the '-ing' form of the verb."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which sentence is in the present continuous tense?",
+        "options": [
+            "The sun rises in the east.",
+            "The sun is rising now.",
+            "The sun has risen.",
+            "The sun will rise soon."
+        ],
+        "correct": 1,
+        "explanation": "This sentence uses 'is' + the '-ing' form of the verb 'rise' to describe an action happening at the present moment, which is the structure of the present continuous tense."
+    }
+]
